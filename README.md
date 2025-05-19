@@ -12,11 +12,10 @@
 ```
 
 ## Problem Background
-```
-Pasar mobil bekas, khususnya merek Mercedes-Benz, menunjukkan variasi harga yang cukup besar. Faktor seperti model mobil, tahun produksi, jenis transmisi, dan mileage diduga berpengaruh terhadap harga jualnya. Namun, belum banyak analisis berbasis data yang secara spesifik mengukur seberapa besar pengaruh masing-masing faktor tersebut.
 
-Sebagai seorang data analyst, penting untuk mengkaji faktor-faktor tersebut agar dapat memberikan referensi yang jelas kepada penjual maupun pembeli mobil bekas. Dengan begitu, proses jual beli dapat dilakukan dengan lebih adil dan berdasarkan data yang objektif. 
-```
+`Pasar mobil bekas, khususnya merek Mercedes-Benz, menunjukkan variasi harga yang cukup besar. Faktor seperti model mobil, tahun produksi, jenis transmisi, dan mileage diduga berpengaruh terhadap harga jualnya. Namun, belum banyak analisis berbasis data yang secara spesifik mengukur seberapa besar pengaruh masing-masing faktor tersebut.`
+
+`Sebagai seorang data analyst, penting untuk mengkaji faktor-faktor tersebut agar dapat memberikan referensi yang jelas kepada penjual maupun pembeli mobil bekas. Dengan begitu, proses jual beli dapat dilakukan dengan lebih adil dan berdasarkan data yang objektif.`
 
 ## Project Output
 `Output dari proyek ini berupa sebuah dashboard interaktif yang dibuat menggunakan Tableau untuk memvisualisasikan data secara informatif dan mudah dipahami.`
